@@ -7,7 +7,7 @@
 
 `SEMESTRE: 8º`
 
-O sistema busca automatizar a criação e gerenciamento de contratos Imobiliarios, que atualmente são feitos manualmente com ferramentas como o Microsoft Word, armazenando as informações localmente e sem backups adequados. A solução proposta utilizará React, Electron, Firebase e Tailwind para criar uma plataforma que otimize os processos, reduza erros e melhore a eficiência da empresa. O projeto também envolve uma análise do mercado imobiliário e um plano de Inteligência Competitiva para orientar o desenvolvimento e implementação do sistema.
+O sistema busca automatizar a criação e gerenciamento de contratos Imobiliarios, que atualmente são feitos manualmente com ferramentas como o Microsoft Word, armazenando as informações localmente e sem backups adequados. A solução proposta utilizará React, Electron, Superbase e Tailwind para criar uma plataforma que otimize os processos, reduza erros e melhore a eficiência da empresa. O projeto também envolve uma análise do mercado imobiliário e um plano de Inteligência Competitiva para orientar o desenvolvimento e implementação do sistema.
 
 ## Integrantes
 
@@ -54,7 +54,7 @@ O mercado imobiliário tem passado por uma digitalização crescente, impulsiona
 
 A escolha dessa empresa se justifica pelo fato de ser um negócio de pequeno porte, com processos administrativos recorrentes que ainda são realizados de forma manual. Atividades como a criação e o gerenciamento de contratos são feitas no Microsoft Word, sem um sistema automatizado, e todas as informações são armazenadas localmente no notebook da proprietária, sem backups em nuvem ou dispositivos externos, o que representa um risco significativo de perda de dados. Além disso, os contratos são organizados em pastas digitais, o que dificulta a busca por documentos específicos, tornando o processo de gerenciamento mais demorado e suscetível a erros.
 
-Diante desse cenário, o objetivo deste projeto é entender os principais desafios enfrentados pela empresa, identificar gargalos e propor melhorias que otimizem os processos operacionais. Como solução, será desenvolvida uma plataforma utilizando React e Electron para a consolidação do software, Firebase para autenticação e armazenamento dos dados e Tailwind para estilização da interface. Essa tecnologia visa facilitar a criação de contratos, permitindo a inserção apenas das informações essenciais, reduzindo o tempo de processamento e melhorando a eficiência geral da gestão imobiliária.
+Diante desse cenário, o objetivo deste projeto é entender os principais desafios enfrentados pela empresa, identificar gargalos e propor melhorias que otimizem os processos operacionais. Como solução, será desenvolvida uma plataforma utilizando React e Electron para a consolidação do software, Superbase para autenticação e armazenamento dos dados e Tailwind para estilização da interface. Essa tecnologia visa facilitar a criação de contratos, permitindo a inserção apenas das informações essenciais, reduzindo o tempo de processamento e melhorando a eficiência geral da gestão imobiliária.
 
 ## 1.2. ANÁLISE DE MERCADO <a id="analise-mercado"></a>
 
@@ -142,14 +142,14 @@ Além dos serviços mencionados na locação simples, Fátima também assume a g
 **Oportunidade de Melhoria:**
 
 * **Desafio:** A empresa enfrenta desafios devido ao processo manual de criação e gerenciamento de contratos, com dados armazenados localmente, sem backup, e difícil acesso a documentos.
-* **Solução Proposta:** Desenvolver uma plataforma com React (frontend), Electron (aplicativo desktop), Firebase (autenticação e armazenamento de dados) e Tailwind (estilização).
+* **Solução Proposta:** Desenvolver uma plataforma com React (frontend), Electron (aplicativo desktop), Superbase (autenticação e armazenamento de dados) e Tailwind (estilização).
 
 **Objetivos:**
 
 * Automatizar a criação de contratos: Inserção apenas das informações essenciais, reduzindo o tempo de processamento.
 * Armazenamento e backup na nuvem: Garantir acesso remoto e segurança dos dados.
 * Melhoria na eficiência: Reduzir erros e otimizar o tempo de gestão de documentos.
-* Segurança dos dados: Controle de acesso com Firebase Authentication.
+* Segurança dos dados: Controle de acesso com Superbase Authentication.
 * Interface intuitiva: Melhor experiência para o usuário, com uma interface moderna e responsiva.
 
 **Benefícios:**
