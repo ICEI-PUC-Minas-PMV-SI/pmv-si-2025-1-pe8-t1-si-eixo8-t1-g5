@@ -30,6 +30,8 @@ O setor imobiliário abrange incorporação, intermediação, locação e admini
 - Integração com blockchain para segurança;
 - Utilização de APIs para conectar sistemas de pagamento e CRM.
 
+![Matriz SWOT](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe8-t1-si-eixo8-t1-g5/blob/main/docs/etapa1/matrizswot.png?raw=true)
+
 A implementação do sistema permitirá à Fátima Araújo Imobiliária organizar seus contratos, reduzir erros e agilizar processos. Com isso, a empresa ganhará mais controle, segurança e eficiência, tornando-se mais atualizada e preparada para competir em um mercado cada vez mais digital e exigente.
 
 ---
