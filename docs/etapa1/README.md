@@ -84,6 +84,7 @@ Inclui os itens da locação simples, mais:
 - Atualização e distrato de contrato;
 - Cobrança e controle da apólice de seguro.
 
+![Fluxograma](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe8-t1-si-eixo8-t1-g5/blob/main/docs/etapa1/fluxograma.png?raw=true)
 ---
 
 ### 1.3.3 Gargalos e Oportunidades de Melhoria
