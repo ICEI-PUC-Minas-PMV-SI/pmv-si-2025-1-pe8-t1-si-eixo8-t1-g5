@@ -31,9 +31,11 @@ A solução utiliza tecnologias como **React**, **Electron** e **Firebase** para
 
 | Etapa | Descrição | Link |
 |-------|-----------|------|
-| 1 | Escolha da Organização e Análise de Mercado e Processos | [Ver Etapa 1](docs/etapa1/README.md) |
+| 1 | Definição da empresa e estudo do seu mercado, processos e sistemas | [Ver Etapa 1](docs/etapa1/README.md) |
 | 2 | Plano de Inteligência Competitiva (IC) | [Ver Etapa 2](docs/etapa2/README.md) |
-| 3 | Conexão com o Plano de IC e Planejamento da Solução | [Ver Etapa 3](docs/etapa3/README.md) |
+| 3 | Desenvolvimento da solução de SI | [Ver Etapa 3](docs/etapa3/README.md) |
+| 4 | Apresentação do Projeto | [Ver Etapa 4] |
+| 5 | Planejamento Estratégico de TI | [Ver Etapa 5] |
 
 ---
 
