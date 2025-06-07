@@ -27,7 +27,7 @@ A solução utiliza tecnologias como **React**, **Electron** e **Firebase** para
 
 ---
 
-## 📁 Etapas Documentais
+## 📁 Etapas do Projeto
 
 | Etapa | Descrição | Link |
 |-------|-----------|------|
