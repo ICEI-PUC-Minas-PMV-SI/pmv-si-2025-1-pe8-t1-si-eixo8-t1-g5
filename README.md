@@ -17,13 +17,28 @@ Por meio deste projeto, vocês irão se transformar em consultores de TI, encarr
 
 ## 💡 Visão Geral da Solução
 
-O projeto propõe o desenvolvimento de um **sistema para gestão de contratos imobiliários** voltado para pequenas administradoras de imóveis. A empresa estudada atua com venda, locação e administração de imóveis e enfrenta desafios relacionados à:
+O projeto propõe o desenvolvimento de um **sistema para gestão de contratos imobiliários**, voltado para pequenas administradoras de imóveis. A empresa estudada atua com venda, locação e administração de imóveis e enfrenta desafios relacionados a:
 
 - Manualidade na criação de contratos
 - Armazenamento local e risco de perda de dados
 - Falta de organização e visão gerencial
 
-A solução utiliza tecnologias como **React**, **Electron** e **Firebase** para automatizar processos, gerar documentos, realizar autenticação segura e apresentar indicadores relevantes em um dashboard.
+Para solucionar esses desafios, foi desenvolvido o **App Sogrinha**, uma aplicação desktop que automatiza processos e centraliza informações contratuais de forma segura e acessível.
+
+A solução utiliza as seguintes tecnologias:
+- **React** + **Tailwind CSS** para a interface
+- **Electron** para empacotamento e execução local
+- **Firebase Authentication** para autenticação
+- **Firebase Realtime Database** para armazenamento estruturado dos dados
+
+A aplicação oferece funcionalidades como:
+- Cadastro de contratos, locatários, proprietários e imóveis
+- Geração automática de contratos em PDF
+- Visualização de dashboards com indicadores estratégicos
+- Exportação para Excel e upload de documentos
+
+### 🔗 Acesse o código-fonte do sistema:
+👉 [**App Sogrinha – Veja no GitHub**](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe8-t1-si-eixo8-t1-g5/tree/main/AppSogrinha)
 
 ---
 
