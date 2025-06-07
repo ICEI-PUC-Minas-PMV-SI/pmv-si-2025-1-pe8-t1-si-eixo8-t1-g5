@@ -1,1 +1,139 @@
+# Etapa 1 – Escolha da Organização, Análise de Mercado e Processos
+
+## 1.1 Introdução
+
+O mercado imobiliário tem passado por uma digitalização crescente, impulsionada pela necessidade de maior eficiência e segurança na gestão de contratos.  
+A empresa escolhida para este estudo é a **Fátima Araujo - Administradora e Corretora de Imóveis**, localizada em Rio das Ostras, RJ.  
+Trata-se de um pequeno negócio, no qual a própria proprietária atua como corretora e administradora de imóveis, oferecendo serviços de locação, venda e administração de imóveis desde 2012.
+
+A escolha dessa empresa se justifica pelo fato de ser um negócio de pequeno porte, com processos administrativos recorrentes que ainda são realizados de forma manual.  
+Atividades como a criação e o gerenciamento de contratos são feitas no Microsoft Word, sem um sistema automatizado, e todas as informações são armazenadas localmente no notebook da proprietária, sem backups em nuvem ou dispositivos externos, o que representa um risco significativo de perda de dados.  
+Além disso, os contratos são organizados em pastas digitais, o que dificulta a busca por documentos específicos, tornando o processo de gerenciamento mais demorado e suscetível a erros.
+
+Diante desse cenário, o objetivo deste projeto é entender os principais desafios enfrentados pela empresa, identificar gargalos e propor melhorias que otimizem os processos operacionais.  
+Como solução, será desenvolvida uma plataforma utilizando **React** e **Electron** para a consolidação do software, **Firebase** para autenticação e armazenamento dos dados e **Tailwind** para estilização da interface.  
+Essa tecnologia visa facilitar a criação de contratos, permitindo a inserção apenas das informações essenciais, reduzindo o tempo de processamento e melhorando a eficiência geral da gestão imobiliária.
+
+---
+
+## 1.2 Análise de Mercado
+
+O setor imobiliário abrange incorporação, intermediação, locação e administração de imóveis.  
+Empresas que lidam com contratos imobiliários incluem imobiliárias, construtoras, administradoras de condomínios e escritórios de advocacia.  
+A digitalização no setor tem sido acelerada por soluções de software que automatizam tarefas burocráticas e aumentam a transparência nas transações.
+
+### Principais concorrentes:
+
+- **TOTVS Gestão Imobiliária** – Focado no mercado brasileiro, com integração fiscal e contábil.
+- **InGaia Imob** – Plataforma acessível para pequenas e médias imobiliárias.
+- **Kenlo (antigo Rede Vistorias)** – Sistema especializado em gestão e vistoria de contratos.
+
+### Boas práticas observadas:
+
+- Uso de inteligência artificial para análise de contratos;
+- Integração com blockchain para segurança;
+- Utilização de APIs para conectar sistemas de pagamento e CRM.
+
+A implementação do sistema permitirá à Fátima Araújo Imobiliária organizar seus contratos, reduzir erros e agilizar processos.  
+Com isso, a empresa ganhará mais controle, segurança e eficiência, tornando-se mais atualizada e preparada para competir em um mercado cada vez mais digital e exigente.
+
+---
+
+## 1.3 Análise de Processos e Sistemas
+
+A empresa atua em dois segmentos principais:
+
+- Venda de imóveis  
+- Locação e gestão de imóveis
+
+Ambos envolvem etapas específicas de captação, divulgação e análise documental.
+
+### 1.3.1 Processo de Venda de Imóveis
+
+**Venda por captação própria:**
+
+- Fátima capta o imóvel diretamente com o proprietário;
+- Um escritório imobiliário terceirizado realiza a divulgação.
+
+**Venda por captação de terceiros:**
+
+- A captação e a divulgação do imóvel são feitas por terceiros;
+- Fátima atua na intermediação, levando o comprador.
+
+**Observação:**  
+Nos casos de venda direta, é necessário um documento de autorização de venda assinado pelo proprietário.  
+Antes da venda, Fátima realiza análise dos documentos para garantir a veracidade da titularidade do imóvel.
+
+---
+
+### 1.3.2 Processo de Locação de Imóveis
+
+**Locação Simples:**
+
+- Captação do imóvel;
+- Verificação da titularidade;
+- Elaboração do contrato;
+- Divulgação;
+- Análise de CPF do locatário;
+- Confecção do contrato e laudo de vistoria.
+
+**Locação com Administração Completa:**
+
+Inclui todos os passos da locação simples, além de:
+
+- Contato com o locatário;
+- Gerenciamento de manutenção e orçamentos;
+- Repasse do aluguel ao proprietário;
+- Troca de titularidade de serviços essenciais;
+- Pagamento de IPTU e condomínio;
+- Atualização de contrato;
+- Distrato locatício;
+- Gestão da apólice de seguro.
+
+---
+
+### 1.3.3 Gargalos e Oportunidades de Melhoria
+
+#### Gargalos
+
+- **Gestão manual de contratos:**  
+  Problema: uso do Word e armazenamento local.  
+  Consequência: lentidão, risco de erro e dificuldade de versionamento.
+
+- **Armazenamento local sem backup:**  
+  Risco de perda de dados.
+
+- **Organização desestruturada de documentos:**  
+  Dificuldade na localização rápida de contratos.
+
+- **Processos não integrados e manuais:**  
+  Atrasos e ineficiência nos fluxos administrativos.
+
+#### Oportunidade de Melhoria
+
+**Desafio:**  
+Melhorar a gestão contratual com baixo conhecimento técnico da usuária.
+
+**Solução Proposta:**  
+Desenvolver uma plataforma com:
+
+- React (frontend)  
+- Electron (desktop)  
+- Firebase (dados e autenticação)  
+- Tailwind (interface)
+
+**Objetivos:**
+
+- Automatizar o preenchimento dos contratos;
+- Armazenar dados com segurança na nuvem;
+- Oferecer usabilidade simplificada;
+- Proteger dados pessoais;
+- Otimizar o tempo de execução dos processos.
+
+**Benefícios:**
+
+- Redução de erros e retrabalho;
+- Acesso remoto e offline;
+- Controle e histórico de contratos;
+- Modernização sem aumentar a complexidade de uso.
 
