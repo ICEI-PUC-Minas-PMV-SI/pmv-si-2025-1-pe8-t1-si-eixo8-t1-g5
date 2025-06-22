@@ -10,7 +10,7 @@ Este Plano Estratégico de Tecnologia da Informação (PETI) tem como objetivo *
 
 - **Automatização dos contratos**, reduzindo tempo e erros manuais.
 - **Dashboard básico com indicadores**, facilitando a gestão.
-- **Armazenamento em nuvem** através do Firebase, garantindo segurança dos dados.
+- **Armazenamento em nuvem** através do Superbase, garantindo segurança dos dados.
 - **Interface simples**, pensada para o perfil da proprietária.
 
 ---
@@ -27,7 +27,7 @@ Este Plano Estratégico de Tecnologia da Informação (PETI) tem como objetivo *
 
 | Oportunidade de Melhoria | Tipo de Serviço Futuro | Profissional Recomendado | Custo Médio Estimado |
 |---|---|---|---|
-| Implementar novos filtros e relatórios | Desenvolvimento de Software | Desenvolvedor React/Firebase | R$ 800 a R$ 1.500 |
+| Implementar novos filtros e relatórios | Desenvolvimento de Software | Desenvolvedor React | R$ 800 a R$ 1.500 |
 | Criar rotina de backup local | Desenvolvimento Backend | Profissional de TI | R$ 300 a R$ 800 |
 | Integrar com sistemas de pagamento ou CRM | Integração de APIs | Desenvolvedor Full Stack | R$ 1.000 a R$ 2.000 |
 | Correções futuras | Manutenção corretiva | Desenvolvedor especializado | Conforme análise |
@@ -72,7 +72,7 @@ Evitar compartilhar senhas. Manter os dispositivos com antivírus atualizado. Re
 | Situação | Ação Recomendável |
 |---|---|
 | Perda de dados | Recuperar informações a partir dos relatórios exportados e salvos na pasta de backup. |
-| Erro técnico no sistema | Buscar um desenvolvedor com experiência em React + Electron + Firebase. |
+| Erro técnico no sistema | Buscar um desenvolvedor com experiência em React + Electron + Superbase. |
 | Necessidade de melhorias | Contratar um prestador de serviço de desenvolvimento de software. |
 
 ---
