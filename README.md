@@ -49,8 +49,9 @@ A aplicação oferece funcionalidades como:
 | 1 | Definição da empresa e estudo do seu mercado, processos e sistemas | [Ver Etapa 1](docs/etapa1/README.md) |
 | 2 | Plano de Inteligência Competitiva (IC) | [Ver Etapa 2](docs/etapa2/README.md) |
 | 3 | Desenvolvimento da solução de SI | [Ver Etapa 3](docs/etapa3/README.md) |
-| 4 | Apresentação do Projeto | [Ver Etapa 4] |
-| 5 | Planejamento Estratégico de TI | [Ver Etapa 5] |
+| 4 | Apresentação do Projeto | [Ver Etapa 4](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe8-t1-si-eixo8-t1-g5/blob/main/docs/etapa4/README.md) |
+| 5 | Planejamento Estratégico de TI | [Ver Etapa 5](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe8-t1-si-eixo8-t1-g5/blob/main/docs/etapa5/README.md) |
+
 
 ---
 
